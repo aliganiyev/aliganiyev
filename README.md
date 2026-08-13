@@ -18,4 +18,3 @@ Independent security researcher focused on vulnerability discovery and patch dev
 **Projects:**
 
 - [Researcher](https://github.com/aliganiyev/Researcher) — this portfolio, in detail
-- [vulnscanner-vulnerability-scanner-ui](https://github.com/aliganiyev/vulnscanner-vulnerability-scanner-ui) — vulnerability scanner UI
