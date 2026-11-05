@@ -28,13 +28,6 @@ Baku, Azerbaijan · [ali.qaniyev@gmail.com](mailto:ali.qaniyev@gmail.com)
 
 - **TheHive Project / Cortex-Analyzers** — [PR #1457](https://github.com/TheHive-Project/Cortex-Analyzers/pull/1457): UnshortenLink SSRF host-filter hardening, follow-up to CVE-2019-7652. Credited as discoverer.
 
-#### Under coordinated disclosure
-
-Reported to the vendor and awaiting an advisory — technical details withheld until a fix ships.
-
-- **Rapid7 / Metasploit** — local privilege escalation in `msfdb`, a root cause distinct from CVE-2026-121139. Reported November 2026.
-- **Debian** — local privilege escalation in the `openvas-scanner` / `gsad` logrotate packaging. Reported to the Debian Security Team, November 2026.
-
 ---
 
 **Projects:**
