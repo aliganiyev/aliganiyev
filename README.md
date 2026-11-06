@@ -4,8 +4,6 @@ Independent security researcher focused on vulnerability discovery and patch dev
 open-source software — threat-intelligence platforms, offensive-security tooling, and the Linux
 kernel. Every item below is upstream-verified: a merged patch, a vendor advisory, or both.
 
-Baku, Azerbaijan · [ali.qaniyev@gmail.com](mailto:ali.qaniyev@gmail.com)
-
 ---
 
 #### CVEs
