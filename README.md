@@ -1,7 +1,7 @@
 ### Ali Ganiyev — Security Researcher
 
 Independent security researcher focused on vulnerability discovery and patch development in
-open-source software — threat-intelligence platforms, offensive-security tooling, and the Linux
+software — threat-intelligence platforms, offensive-security tooling, and the Linux
 kernel. Every item below is upstream-verified: a merged patch, a vendor advisory, or both.
 
 ---
