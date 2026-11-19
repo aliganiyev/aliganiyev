@@ -12,6 +12,7 @@ kernel. Every item below is upstream-verified: a merged patch, a vendor advisory
 |---|---|---|---|
 | [CVE-2026-121139](https://www.cve.org/CVERecord?id=CVE-2026-121139) | Rapid7 **Metasploit Framework** | Missing authentication in the `msf-ws` REST API (CWE-306). A bootstrap exemption in `ApiToken#authenticate!` returned success whenever `msf.auth_initialized` was false, short-circuiting the `AdminApiToken` check — so an unauthenticated caller could `POST /api/v1/users` and create the first **administrator**. CVSS 3.1 **7.8 High**. | 6.5.9 — [PR #22039](https://github.com/rapid7/metasploit-framework/pull/22039), [commit 8d42a68](https://github.com/rapid7/metasploit-framework/commit/8d42a68839564e9611e831367ddfd32d886e1211) |
 | [CVE-2026-9084](https://nvd.nist.gov/vuln/detail/CVE-2026-9084) | **MISP** | OIDC authentication bypass under insecure IdP configurations, allowing account takeover via **email claim spoofing**. Credited as discoverer. | [PR #10784](https://github.com/MISP/MISP/pull/10784) |
+| [CVE-2026-132038](https://www.cve.org/CVERecord?id=CVE-2026-132038) | Rapid7 **Metasploit Framework** | Vulnerability discovered and responsibly disclosed to the Rapid7 Metasploit security team. Assigned CVE-2026-132038 with **discovery credit attributed to Ali Ganiyev**, as confirmed by Rapid7. | Vendor-confirmed CVE assignment — acknowledgment from the Metasploit security team. |
 
 > CVE-2026-121139 was reported independently by two researchers; credit is shared.
 
